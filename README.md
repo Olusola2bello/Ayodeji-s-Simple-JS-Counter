@@ -1,1 +1,1 @@
-# Ayodeji-s-Simple-JS-Counter
+# Ayodeji-s-Simple-Javascript-simple-Counter
