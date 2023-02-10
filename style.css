@@ -1,32 +1,54 @@
+body{
+    background-color: black;
+}
+
 .div{
     width: 50%;
     height: 75vh;
-    border: 2px solid green;
+    border: 2px solid #fff;
+    outline: 2px solid greenyellow;
     border-radius: 5px;
-    box-shadow: 2px 2px 2px black;
+    /* box-shadow: 2px 2px 2px red; */
     margin: 50px auto;
     padding: 20px;
     text-align: center;
-    background-color: palegoldenrod;
+    background-color: #656667;
+    background-image: linear-gradient(160deg, #656667 0%, #2a2b2b 100%);
 }
 
-.bbt button{
-    margin-top: 80px;
-    margin-right: 80px;
-    height: 50px;
-    width: 80px;
+h1{
+    color: greenyellow;
+    margin-bottom: 100px;
+}
+
+span{
+    color: white;
+    font-weight: 800;
+}
+
+.bbt{
+ 
+    text-align: center;
+    margin-left: 50px auto;
+}
+
+button{
+    height: 60px;
+    width: 90px;
     border-radius: 5px;
+    background-color: black;
+    text-align: center;
+    margin: 50px;
+    color: greenyellow;
 }
 
 .count{
     height: 50px;
     width: 120px;
-    font-size: 18px;
+    font-size: 35px;
+    text-align: center;
     border-radius: 10px;
-    border: 2px solid red;
     margin: 50px auto;
     background-color: black;
-    color: wheat;
+    color: #fff;
 }
-
-
